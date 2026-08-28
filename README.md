@@ -9,7 +9,7 @@ For a detailed overview of the project, methodology, analysis, and key insights,
 
 👉 "View Project Presentation" :
 
-[Uploading Presentation.pdf…]()[Presentation.pdf](https://github.com/user-attachments/files/31567181/Presentation.pdf)
+[Presentation.pdf](https://github.com/user-attachments/files/31567181/Presentation.pdf)
 
 
 
