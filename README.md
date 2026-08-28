@@ -7,9 +7,9 @@ would take, cleaning and profiling raw data in Paython use Pandas, This project 
 
 For a detailed overview of the project, methodology, analysis, and key insights, check out the full presentation below:
 
-👉 "View Project Presentation" :
+👉 "View Project Presentation" :[Presentation.pdf](https://github.com/user-attachments/files/31567181/Presentation.pdf)
 
-[Presentation.pdf](https://github.com/user-attachments/files/31567181/Presentation.pdf)
+
 
 
 
