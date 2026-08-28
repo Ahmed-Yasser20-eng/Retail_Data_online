@@ -1,4 +1,4 @@
-[Presentation.pdf](https://github.com/user-attachments/files/31567181/Presentation.pdf)# Online Retail II Project
+# Online Retail II Project
 This project takes a real, messy two year retail dataset and turns it into a working relational database and a Excel dashboard,
 with every decision along the way reasoned through rather than just executed. It follows the path an actual analytics project
 would take, cleaning and profiling raw data in Paython use Pandas, This project focuses on analyzing online retail data to uncover actionable insights regarding sales trends, product performance, and customer purchasing behaviors. By leveraging advanced dashboard visualizations, the project aims to optimize inventory planning, enhance targeted marketing strategies, and improve overall business decision-making for the upcoming quarter.
@@ -9,7 +9,7 @@ For a detailed overview of the project, methodology, analysis, and key insights,
 
 👉 "View Project Presentation" :
 
-[Uploading Presentation.pdf…]()
+[Uploading Presentation.pdf…]([Presentation.pdf](https://github.com/user-attachments/files/31567181/Presentation.pdf))
 
 
 
