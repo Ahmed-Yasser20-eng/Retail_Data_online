@@ -80,7 +80,8 @@ The top KPI cards provide an immediate high-level summary of the overall busines
 ### •	2. Revenue by Country (Bar Chart): 
 This chart illustrates the geographical distribution of sales, revealing a massive concentration of revenue in the United Kingdom (generating approximately 17M), while other international markets like the Netherlands, Eire, Germany, and France contribute significantly smaller shares.
 
-<img width="986" height="605" alt="Screenshot 2026-08-28 041440" src="https://github.com/user-attachments/assets/bd985b72-0612-4274-99b7-59349a3a24e1" />
+<img width="889" height="608" alt="Screenshot 2026-08-28 041632" src="https://github.com/user-attachments/assets/a33f7625-e2b3-4f7a-ac5e-44937b27a41f" />
+
 
 ### •	3. Sales Over The Days (Horizontal Bar Chart):
 This view breaks down transaction performance across the days of the week, showing steady commercial activity with peak sales performance occurring toward the later part of the workweek (specifically peaking on Thursday with 4.01M).
